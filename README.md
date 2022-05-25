@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthikeyan28d
+- 👋 Hi, I’m karthikeyan
 - 👀 I’m interested in Data Science and currently looking for opportunities in the field of Data Science/Data Analytics. I have completed PGP in Data Science at Great Lakes and also I am certified with a Master in Data Science Program by Guvi which is an IIT Madras Incubated company. I have done my undergraduate from PSG College of Technology.
 - 🌱 I’m currently learning analytical Tools and skills related to Data Science and Data Analytics Domain.
 - 💞️ I’m looking forward to Kickstart my carrer on Data science field.
