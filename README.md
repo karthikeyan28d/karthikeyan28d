@@ -3,8 +3,9 @@
 
 ---
 
-🧠 I’m an MLOps Engineer with 2+ years of experience delivering end-to-end ML solutions at Volvo Group.  
-I specialize in building robust pipelines that help data science teams move from prototype to production—smoothly and scalably.
+🚀 Hey there! I'm an MLOps Engineer with 2+ years of hands-on experience at Volvo Group, where I’ve been designing and scaling machine learning systems that actually make it to production (yes, beyond the Jupyter notebook!).
+
+🔧 I love turning experimental models into reliable, automated pipelines — making life easier for data science teams and helping businesses unlock real value from AI.
 
 ---
 
